@@ -1,0 +1,9 @@
+TestData/FileWithRandomData/Test filter=lfs diff=lfs merge=lfs -text
+TestData/MultipleFilesAndFoldersWithRandomData/Test filter=lfs diff=lfs merge=lfs -text
+TestData/MultipleFilesAndFoldersWithRandomData/Test1.txt filter=lfs diff=lfs merge=lfs -text
+TestData/MultipleFilesAndFoldersWithRandomData/SampleFolder1/Test filter=lfs diff=lfs merge=lfs -text
+TestData/MultipleFilesAndFoldersWithRandomData/SampleFolder1/Test1.txt filter=lfs diff=lfs merge=lfs -text
+TestData/MultipleFilesAndFoldersWithRandomData/SampleFolder2/Test.txt filter=lfs diff=lfs merge=lfs -text
+TestData/MultipleFilesAndFoldersWithRandomData/SampleFolder2/Test filter=lfs diff=lfs merge=lfs -text
+TestData/MultipleFilesAndFoldersWithRandomData/SampleFolder2/Test1.txt filter=lfs diff=lfs merge=lfs -text
+TestData/LargeFiles/Test filter=lfs diff=lfs merge=lfs -text
